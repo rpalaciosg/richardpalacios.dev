@@ -86,7 +86,7 @@ enableEmoji     = true
 # Social icons
   [[params.social]]
     name = "email"
-    url  = "mailto:apalaciosg91@gmail.com"
+    url  = "mailto:richardpalacios231@gmail.com"
 
   [[params.social]]
     name = "twitter"
