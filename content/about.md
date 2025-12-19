@@ -48,7 +48,7 @@ Asumo la responsabilidad de mi aprendizaje continuo y desarrollo profesional par
 ### /Get in touch
 
 Me encantaría tener la oportunidad de discutir cómo mis habilidades y experiencia pueden beneficiar a su proyecto u organización.
-Puedes encontrarme por [📧 email](apalaciosg91@gmail.com), [Telegram](https://t.me/rpalaciosg), [GitHub](https://github.com/rpalaciosg), [Twitter](https://twitter.com/rpalaciosg_),  [LinkedIn](https://www.linkedin.com/in/richardpalaciosgarcia/).
+Puedes encontrarme por [📧 email](richardpalacios231@gmail.com), [Telegram](https://t.me/rpalaciosg), [GitHub](https://github.com/rpalaciosg), [Twitter](https://twitter.com/rpalaciosg_),  [LinkedIn](https://www.linkedin.com/in/richardpalaciosgarcia/).
 
 
 <!--<a class="cv" href='https://drive.google.com/file/d/14z8pl6PViWUA9_DdM1DughaQ48Qdaobr/view' target='_blank'>Resume(PDF)📄</a>-->
@@ -92,6 +92,6 @@ Puedes encontrarme por [📧 email](apalaciosg91@gmail.com), [Telegram](https://
 
 ### /Let's build together
 
-Construyamos algo juntos!! si buscas un desarrollador, tienes alguna pregunta, algún proyecto Open Source 🔥, quieres hablar o saludar👋🏽, puedes escribirme a [📧 mi email](apalaciosg91@gmail.com), [Telegram](https://t.me/rpalaciosg). También puedes encontrarme en [GitHub](https://github.com/rpalaciosg), [Twitter](https://twitter.com/rpalaciosg_), o [LinkedIn](https://www.linkedin.com/in/richardpalaciosgarcia/).
+Construyamos algo juntos!! si buscas un desarrollador, tienes alguna pregunta, algún proyecto Open Source 🔥, quieres hablar o saludar👋🏽, puedes escribirme a [📧 mi email](richardpalacios231@gmail.com), [Telegram](https://t.me/rpalaciosg). También puedes encontrarme en [GitHub](https://github.com/rpalaciosg), [Twitter](https://twitter.com/rpalaciosg_), o [LinkedIn](https://www.linkedin.com/in/richardpalaciosgarcia/).
 
 <style>.me{display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-around; gap:20px;  width:100%;} .me-photo{align-self:auto; max-width:150px; max-heigh:150px;} .me-content {width:590px; max-width:100%;} kbd {background-color: #eee;border-radius: 3px;border: 1px solid #b4b4b4;box-shadow: 0 1px 1px rgba(0, 0, 0, .2), 0 2px 0 0 rgba(255, 255, 255, .7) inset;color: #333;display: inline-block;font-size: .85em;font-weight: 700;line-height: 1;padding: 2px 4px;white-space: nowrap;} .cv {background-color: #fe5186;border-radius: 7px;border: none;box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);transition: all 0.3s ease 0s;color: #fff;display: inline-block;letter-spacing: 1.5px;text-decoration: none;padding:0 7px; position: right;}.cv svg {width: 16px;height: 16px;}.cv:hover {background-color: #fe5186;box-shadow: 0px 15px 20px rgba(254, 81, 134, 0.4);color: #fff;transform: translateY(-7px);} .slate-column-container{display:flex; justify-content:center;} .slate-column{display: flex; flex-wrap:wrap;flex-direction: row; align-items: stretch; justify-content: center; position: relative; min-height:216px; }.slate-column-item{display: flex; flex-direction: column; justify-content:center; align-item: flex-start;width:259px; padding: 20px 15px;}.slate-header{width:250px; max-width: min(100%, 600px); text-align: center; font-size:20px; mobile-font-size:16px;}.slate-content{width:250px;,ax-width: min(100%,600px); text-align: center;font-weight: 300;}</style>
